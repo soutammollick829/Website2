@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.min{
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(img-2/983914.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+.naver{
+    width: 1000px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 400px;
+    float: left;
+    height: 75px;
+
+}
+.logo{
+    color: tomato;
+    font-size: 35px;
+    font-family: cursive,sans-serif;
+    padding-left: 20px;
+    float: left;
+}
